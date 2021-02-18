@@ -7,6 +7,6 @@ Run the program from the CLI using spark-submit autoSalesPostReport.py
 The input file data.csv should be placed in the same directory. The output will be generated in the same folder as output.txt.
 
 # Sample output generated:
-Nissan,1
-Mercedes,3
-Toyota,0
+- Nissan,1
+- Mercedes,3
+- Toyota,0
